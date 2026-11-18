@@ -70,6 +70,15 @@ INSTALLATION
 
 Download and extract the project folder.
 
+Regarding the required modules, a `requirements.txt` file is provided.
+
+If you install in a new environment and don´t use requirements.txt, you must install
+
+pip install pillow
+pip install shapely
+pip install torchvision
+pip install rfdetr
+
 Download the dataset from: https://universe.roboflow.com/leukocoria-detector-nv8ij/leukocoria-detector-rsl8x/dataset/2
 
 You will need a Roboflow API key, which can be obtained for free on the Roboflow website.
@@ -85,13 +94,6 @@ python ConvertYolo_to_CocoJsonValid.py
 python ConvertYolo_to_CocoJsonTest.py
 
 
-Regarding the required modules, a `requirements.txt` file is provided.
-
-If you install in a new environment and don´t use requirements.txt, you must install
-
-
-
-
 =========================================
 
 TRAINING
@@ -104,7 +106,10 @@ configured with 30 epochs
 
 The training process was configured and adapted to run on a personal computer equipped with a CPU (no GPU) and 16 GB of RAM. This setup allowed for daily tasks and other applications to continue running while the model was being trained over.
 
-During training, checkpoint.pth is saved to the output directory. Messages with the loss  evolution appears in console. 
+During training, checkpoint.pth is saved to the output directory. Messages with the loss  evolution appears in console. Also metrics with evaluation of training appears in output folder.
+
+The model checkpoint.pth is used in thefollowing step TEST
+
 
 ================================================
 
