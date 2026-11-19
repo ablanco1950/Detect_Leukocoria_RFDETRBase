@@ -98,6 +98,8 @@ python ConvertYolo_to_CocoJsonTest.py
 
 TRAINING
 
+Due to the size of the model, it has not been possible to upload it to GitHub.
+
 To obtain the model execute :
 
 python train.py
