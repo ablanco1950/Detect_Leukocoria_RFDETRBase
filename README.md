@@ -57,9 +57,9 @@ And building upon the acceptable results obtained in a previous project that uti
 https://github.com/ablanco1950/AerialMaritime_Detection_RFDETRBase
 Object detection in maritime aerial views with RFDETRBase, using https://universe.roboflow.com/jacob-solawetz/aerial-maritime/dataset/24 ​​as the custom dataset.
 
-And as RDETRnano  requires very few resources, training can be run on a personal computer. 
+And as RFDETRnano  requires very few resources, training can be run on a personal computer. 
 
-This project, which employs `RDETRnano`, is presented here.
+This project, which employs `RFDETRnano`, is presented here.
 
 ===============================================
 
