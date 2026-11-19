@@ -75,8 +75,11 @@ Regarding the required modules, a `requirements.txt` file is provided.
 If you install in a new environment and don´t use requirements.txt, you must install
 
 pip install pillow
+
 pip install shapely
+
 pip install torchvision
+
 pip install rfdetr
 
 Download the dataset from: https://universe.roboflow.com/leukocoria-detector-nv8ij/leukocoria-detector-rsl8x/dataset/2
