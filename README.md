@@ -152,3 +152,6 @@ https://medium.com/@mochammadyahya002/building-retina-ai-from-a-cnn-training-pip
 ## Acknowledgements
 
 * This project benefited from the assistance of **Google Gemini**
+* For example: asking IA Google: "intento entrenar con python un modelo RFDETRBase con custom dataset en un ordenador personal con 16gb de memoria, pero el sistema se cae. Existe alguna version ligera de RFDETRBase
+o ajuste de parametros que me pueda servir?"
+
