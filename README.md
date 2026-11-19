@@ -52,9 +52,9 @@ For detection:
 Leukocoria Detector Model > Overview
 https://universe.roboflow.com/leukocoria-detector-nv8ij/leukocoria-detector-rsl8x
 
-And building upon the acceptable results obtained in a previous project that utilized `Fastercnn_fpn`:
+And building upon the acceptable results obtained in a previous project that utilized `RFDETRBase`:
 
-https://github.com/ablanco1950/Brain_tumors-Fastercnn_fpn
+https://github.com/ablanco1950/AerialMaritime_Detection_RFDETRBase
 Brain tumor detector using the Roboflow dataset
 https://universe.roboflow.com/test-svk7h/brain-tumors-detection/dataset/2 as a training dataset and simple programs.
 
