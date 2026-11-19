@@ -55,14 +55,11 @@ https://universe.roboflow.com/leukocoria-detector-nv8ij/leukocoria-detector-rsl8
 And building upon the acceptable results obtained in a previous project that utilized `RFDETRBase`:
 
 https://github.com/ablanco1950/AerialMaritime_Detection_RFDETRBase
-Brain tumor detector using the Roboflow dataset
-https://universe.roboflow.com/test-svk7h/brain-tumors-detection/dataset/2 as a training dataset and simple programs.
+Object detection in maritime aerial views with RFDETRBase, using https://universe.roboflow.com/jacob-solawetz/aerial-maritime/dataset/24 ​​as the custom dataset.
 
-That requires very few resources, and training can be run on a personal computer. 
+And as RDETRnano  requires very few resources, training can be run on a personal computer. 
 
-
-
-This project, which employs `Fastercnn_fpn`, is presented here.
+This project, which employs `RDETRnano`, is presented here.
 
 ===============================================
 
