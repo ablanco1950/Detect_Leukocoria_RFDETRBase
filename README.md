@@ -124,7 +124,7 @@ The 37 images from the file `Leukocoria Detector.v2-leukocoria-version-2.yolov8-
 
 ![Figure 1](https://github.com/ablanco1950/Detect_Leukocoria_RFDETRBase/blob/main/Figure_1.png)
 
-The console output also specifies, for each image and each eye, whether it is labeled as healthy (in red) or as having leukocoria (in blue).
+Messages in  console output also specifies, for each image and each eye, whether it is labeled as healthy  or as having leukocoria.
 
 Testing  37 images from the folder Leukocoria Detector.v2-leukocoria-version-2.yolov8-obb\\test only errors are detected in images:
 
