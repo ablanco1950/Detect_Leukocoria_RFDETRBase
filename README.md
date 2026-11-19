@@ -138,11 +138,13 @@ REFERENCES
 
 https://universe.roboflow.com/leukocoria-detector-nv8ij/leukocoria-detector-rsl8x/dataset/2
 
+https://rfdetr.roboflow.com/learn/train/
+
 https://universe.roboflow.com/leukocoria-detector-nv8ij/leukocoria-detector-rsl8x (model provided by Roboflow to test))
 
 https://github.com/ablanco1950/Detect_Leukocoria_Yolo26-seg
 
-https://github.com/ablanco1950/Brain_tumors-Fastercnn_fpn
+https://github.com/ablanco1950/Detect_Leukocoria_Fastercnn-fpn
 
 https://medium.com/@mochammadyahya002/building-retina-ai-from-a-cnn-training-pipeline-to-a-retinoblastoma-screening-app-81379067c0cd)
 
